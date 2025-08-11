@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavya Soni</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-🔭 I’m currently working on [ExpenseTracker](https://github.com/Bhavyasoni01/ExpenseTracker)
+🔭 I’m currently working on <a href="https://github.com/Bhavyasoni01/ExpenseTracker">Expense Tracker</a>
 <br>🌱 I’m currently learning Flutter and Node.js<br>💬 Ask me about football and flutter<br>⚡ Fun fact I am chill most of the time
 
 
