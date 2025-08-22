@@ -15,7 +15,7 @@ Android Development:
 
 Backend:
 
-[Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) 
+![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) 
 
 Applications: 
 
