@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Soni</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+
 🔭 I’m currently working on Ai-Recipe App
 <br>🌱 I’m currently learning Flutter and Node.js<br>💬 Ask me about football and flutter<br>⚡ Fun fact I am chill most of the time
 
@@ -23,8 +23,8 @@ Applications:
  https://skillicons.dev/icons?i=vscode&theme=dark) ![idea](https://skillicons.dev/icons?i=idea&theme=dark)
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BhavyaSoni01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BhavyaSoni01&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSoni01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=BhavyaSoni01&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSoni01&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
