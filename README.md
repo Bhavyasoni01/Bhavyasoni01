@@ -24,7 +24,7 @@ Applications:
  
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=BhavyaSoni01&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSoni01&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=BhavyaSoni01&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaSoni01&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
