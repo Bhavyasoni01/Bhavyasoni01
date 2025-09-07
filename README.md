@@ -21,6 +21,10 @@ Applications:
 
  ![Adobe Photoshop](https://skillicons.dev/icons?i=ps&theme=dark) ![Adobe Premiere Pro](https://skillicons.dev/icons?i=pr&theme=dark) ![Adobe After Effects](https://skillicons.dev/icons?i=ae&theme=dark) ![Vs Code](
  https://skillicons.dev/icons?i=vscode&theme=dark) ![idea](https://skillicons.dev/icons?i=idea&theme=dark)
+
+ Os:
+ 
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark) ![Windows](https://skillicons.dev/icons?i=windows&theme=dark)
  
 # 📊 GitHub Stats:
 
