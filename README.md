@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Soni</h1>
 
-🔭 I’m currently working on Ai-Recipe App
-<br>🌱 I’m currently learning about DevOps and Node.js<br>💬 Ask me about football and flutter<br>⚡ Fun fact I am chill most of the time
-
+🔭 I’m currently working MLOPS
+<br>🌱 I’m currently learning about MLOPS<br>
 
 # 💻 Tech Stack:
 Languages: 
