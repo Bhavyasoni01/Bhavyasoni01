@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Bhavya Soni 👋</h1>
-<h3 align="center">Aspiring ML / MLOps Engineer · I build ML systems that actually ship</h3>
+<h3 align="center">Aspiring MLOps Engineer · I build ML systems that actually ship</h3>
 
 ---
 
 ###  About Me
-
 - 🔭 Focused on **MLOps** — taking ML models from notebook to production
-- 🛠️ I care about the engineering *around* the model: deployment, reproducibility, CI/CD, and explainability
-
+- 🛠️ I care about the engineering *around* the model: deployment, orchestration, observability, reproducibility, CI/CD, and explainability
 
 ---
 
@@ -32,8 +30,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Cloud**
 
@@ -45,8 +45,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Loan Default Prediction System](https://github.com/Bhavyasoni01/loan-default-prediction)** | End-to-end MLOps system on 2.26M Lending Club records. XGBoost + Optuna, SHAP explainability, dual-endpoint FastAPI service, live on GCP. Detected & removed post-loan data leakage for an honest 0.71 ROC-AUC. | XGBoost · SHAP · Optuna · MLflow · FastAPI · Docker · GitHub Actions · GCP |
+| **[Loan Default Prediction System](https://github.com/Bhavyasoni01/loan-default-prediction)** | End-to-end MLOps system on 2.26M Lending Club records. XGBoost + Optuna, SHAP explainability, dual-endpoint FastAPI service. Orchestrated on Kubernetes with self-healing, health probes, and replica scaling; observed via a custom Prometheus + Grafana dashboard (prediction volume, class distribution, inference/SHAP latency). CI validates a live Kubernetes deployment on every push. Detected & removed post-loan data leakage for an honest 0.71 ROC-AUC. | XGBoost · SHAP · Optuna · MLflow · FastAPI · Docker · Kubernetes · Prometheus · Grafana · GitHub Actions · GCP |
 | **[Credit Card Fraud Detection API](https://github.com/Bhavyasoni01/cc-fraud-detection)** | Fraud detection on a severely imbalanced dataset (~0.16% positives). 0.98 ROC-AUC, 0.85 recall — caught 127 of 149 frauds at just 35 false positives. Served as a Dockerized REST API. | scikit-learn · MLflow · FastAPI · Docker · GitHub Actions · GCP |
-
 
 ---
